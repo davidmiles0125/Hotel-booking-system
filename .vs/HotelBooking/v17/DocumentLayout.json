@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\__workspace\\hotel booking system\\HotelBookingWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262D4AD6-12B7-43CE-960D-CA6B849548C5}|HotelBooking.WebApi\\HotelBooking.WebApi.csproj|d:\\__workspace\\hotel booking system\\hotelbookingwebapi\\hotelbooking.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{262D4AD6-12B7-43CE-960D-CA6B849548C5}|HotelBooking.WebApi\\HotelBooking.WebApi.csproj|solutionrelative:hotelbooking.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262D4AD6-12B7-43CE-960D-CA6B849548C5}|HotelBooking.WebApi\\HotelBooking.WebApi.csproj|d:\\__workspace\\hotel booking system\\hotelbookingwebapi\\hotelbooking.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{262D4AD6-12B7-43CE-960D-CA6B849548C5}|HotelBooking.WebApi\\HotelBooking.WebApi.csproj|solutionrelative:hotelbooking.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262D4AD6-12B7-43CE-960D-CA6B849548C5}|HotelBooking.WebApi\\HotelBooking.WebApi.csproj|d:\\__workspace\\hotel booking system\\hotelbookingwebapi\\hotelbooking.webapi\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262D4AD6-12B7-43CE-960D-CA6B849548C5}|HotelBooking.WebApi\\HotelBooking.WebApi.csproj|solutionrelative:hotelbooking.webapi\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\__workspace\\hotel booking system\\HotelBookingWebApi\\HotelBooking.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HotelBooking.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\__workspace\\hotel booking system\\HotelBookingWebApi\\HotelBooking.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HotelBooking.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T03:05:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\__workspace\\hotel booking system\\HotelBookingWebApi\\HotelBooking.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelBooking.WebApi\\appsettings.json",
+              "ToolTip": "D:\\__workspace\\hotel booking system\\HotelBookingWebApi\\HotelBooking.WebApi\\appsettings.json",
+              "RelativeToolTip": "HotelBooking.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T03:04:58.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\__workspace\\hotel booking system\\HotelBookingWebApi\\HotelBooking.WebApi\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "HotelBooking.WebApi\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\__workspace\\hotel booking system\\HotelBookingWebApi\\HotelBooking.WebApi\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "HotelBooking.WebApi\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAIQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:53:26.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

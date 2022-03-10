@@ -1,0 +1,12 @@
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\bin\Debug\net6.0\HotelBooking.Common.deps.json
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\bin\Debug\net6.0\HotelBooking.Common.dll
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\bin\Debug\net6.0\HotelBooking.Common.pdb
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\obj\Debug\net6.0\HotelBooking.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\obj\Debug\net6.0\HotelBooking.Common.AssemblyInfoInputs.cache
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\obj\Debug\net6.0\HotelBooking.Common.AssemblyInfo.cs
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\obj\Debug\net6.0\HotelBooking.Common.csproj.CoreCompileInputs.cache
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\obj\Debug\net6.0\HotelBooking.Common.sourcelink.json
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\obj\Debug\net6.0\HotelBooking.Common.dll
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\obj\Debug\net6.0\refint\HotelBooking.Common.dll
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\obj\Debug\net6.0\HotelBooking.Common.pdb
+D:\__workspace\hotel booking system\HotelBookingWebApi\HotelBooking.Common\obj\Debug\net6.0\ref\HotelBooking.Common.dll

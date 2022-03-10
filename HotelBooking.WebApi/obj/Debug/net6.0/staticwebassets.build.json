@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "JtBmvRmEjl6MOs/4RYyBGbvc/2ognv8gq3dyQq/GBvc=",
+  "Source": "HotelBooking.WebApi",
+  "BasePath": "_content/HotelBooking.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HotelBooking.WebApi\\wwwroot",
+      "Source": "HotelBooking.WebApi",
+      "ContentRoot": "D:\\__workspace\\hotel booking system\\HotelBookingWebApi\\HotelBooking.WebApi\\wwwroot\\",
+      "BasePath": "_content/HotelBooking.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\__workspace\\hotel booking system\\HotelBookingWebApi\\HotelBooking.WebApi\\wwwroot\\images\\7703c992-1739-4bd2-b12e-254ca9a61591.jpeg",
+      "SourceId": "HotelBooking.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\__workspace\\hotel booking system\\HotelBookingWebApi\\HotelBooking.WebApi\\wwwroot\\",
+      "BasePath": "_content/HotelBooking.WebApi",
+      "RelativePath": "images/7703c992-1739-4bd2-b12e-254ca9a61591.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7703c992-1739-4bd2-b12e-254ca9a61591.jpeg"
+    }
+  ]
+}

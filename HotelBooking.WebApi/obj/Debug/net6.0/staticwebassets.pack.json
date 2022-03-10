@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\__workspace\\hotel booking system\\HotelBookingWebApi\\HotelBooking.WebApi\\wwwroot\\images\\7703c992-1739-4bd2-b12e-254ca9a61591.jpeg",
+      "PackagePath": "staticwebassets\\images\\7703c992-1739-4bd2-b12e-254ca9a61591.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HotelBooking.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HotelBooking.WebApi.props",
+      "PackagePath": "build\\HotelBooking.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelBooking.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\HotelBooking.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HotelBooking.WebApi.props",
+      "PackagePath": "buildTransitive\\HotelBooking.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
